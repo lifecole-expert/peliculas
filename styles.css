@@ -1,0 +1,18 @@
+.cuadrado {
+  width: 600px !important;
+  height: 300px ;
+  border: solid 2px black;
+  padding: 0 !important;
+}
+
+.torre {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  background: red;
+}
+
+.botones_container {
+  display:flex;
+  justify-content: center;
+}
